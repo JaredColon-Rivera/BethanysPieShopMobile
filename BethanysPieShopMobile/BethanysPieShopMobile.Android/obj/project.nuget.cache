@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WlYzncKB3kaR5VZRhH4ioKMApT3+cDv4unER1wihDHvfrXGI2dMbhlMzUAz2gsbMT0saDdFsxpM1vP/vjG7IRw==",
+  "dgSpecHash": "RPz/NV4CM9KTYiKEQpIvUSs3xhhEfGW18beoSRHcyS9DSZH8+A8MKC/qZNNlHGUvnrbwWnEAR2FqVCePbhTpfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Moraki\\source\\repos\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile.Android\\BethanysPieShopMobile.Android.csproj",
+  "projectFilePath": "C:\\Users\\Moraki\\Desktop\\Xamarin Projects\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile.Android\\BethanysPieShopMobile.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Moraki\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",

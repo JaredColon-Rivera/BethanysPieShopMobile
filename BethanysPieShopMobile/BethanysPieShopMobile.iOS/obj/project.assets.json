@@ -1051,11 +1051,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Moraki\\source\\repos\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile.iOS\\BethanysPieShopMobile.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Moraki\\Desktop\\Xamarin Projects\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile.iOS\\BethanysPieShopMobile.iOS.csproj",
       "projectName": "BethanysPieShopMobile.iOS",
-      "projectPath": "C:\\Users\\Moraki\\source\\repos\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile.iOS\\BethanysPieShopMobile.iOS.csproj",
+      "projectPath": "C:\\Users\\Moraki\\Desktop\\Xamarin Projects\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile.iOS\\BethanysPieShopMobile.iOS.csproj",
       "packagesPath": "C:\\Users\\Moraki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Moraki\\source\\repos\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Moraki\\Desktop\\Xamarin Projects\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1076,8 +1076,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Moraki\\source\\repos\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile.csproj": {
-              "projectPath": "C:\\Users\\Moraki\\source\\repos\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile.csproj"
+            "C:\\Users\\Moraki\\Desktop\\Xamarin Projects\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile.csproj": {
+              "projectPath": "C:\\Users\\Moraki\\Desktop\\Xamarin Projects\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile.csproj"
             }
           }
         }

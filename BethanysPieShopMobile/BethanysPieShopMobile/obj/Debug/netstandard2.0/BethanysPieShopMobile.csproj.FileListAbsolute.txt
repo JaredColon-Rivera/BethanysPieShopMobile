@@ -1,0 +1,16 @@
+C:\Users\Moraki\Desktop\Xamarin Projects\BethanysPieShopMobile\BethanysPieShopMobile\BethanysPieShopMobile\bin\Debug\netstandard2.0\BethanysPieShopMobile.deps.json
+C:\Users\Moraki\Desktop\Xamarin Projects\BethanysPieShopMobile\BethanysPieShopMobile\BethanysPieShopMobile\bin\Debug\netstandard2.0\BethanysPieShopMobile.dll
+C:\Users\Moraki\Desktop\Xamarin Projects\BethanysPieShopMobile\BethanysPieShopMobile\BethanysPieShopMobile\bin\Debug\netstandard2.0\ref\BethanysPieShopMobile.dll
+C:\Users\Moraki\Desktop\Xamarin Projects\BethanysPieShopMobile\BethanysPieShopMobile\BethanysPieShopMobile\bin\Debug\netstandard2.0\BethanysPieShopMobile.pdb
+C:\Users\Moraki\Desktop\Xamarin Projects\BethanysPieShopMobile\BethanysPieShopMobile\BethanysPieShopMobile\obj\Debug\netstandard2.0\BethanysPieShopMobile.csprojAssemblyReference.cache
+C:\Users\Moraki\Desktop\Xamarin Projects\BethanysPieShopMobile\BethanysPieShopMobile\BethanysPieShopMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Moraki\Desktop\Xamarin Projects\BethanysPieShopMobile\BethanysPieShopMobile\BethanysPieShopMobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Moraki\Desktop\Xamarin Projects\BethanysPieShopMobile\BethanysPieShopMobile\BethanysPieShopMobile\obj\Debug\netstandard2.0\BethanysPieShopMobile.AssemblyInfoInputs.cache
+C:\Users\Moraki\Desktop\Xamarin Projects\BethanysPieShopMobile\BethanysPieShopMobile\BethanysPieShopMobile\obj\Debug\netstandard2.0\BethanysPieShopMobile.AssemblyInfo.cs
+C:\Users\Moraki\Desktop\Xamarin Projects\BethanysPieShopMobile\BethanysPieShopMobile\BethanysPieShopMobile\obj\Debug\netstandard2.0\BethanysPieShopMobile.csproj.CoreCompileInputs.cache
+C:\Users\Moraki\Desktop\Xamarin Projects\BethanysPieShopMobile\BethanysPieShopMobile\BethanysPieShopMobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Moraki\Desktop\Xamarin Projects\BethanysPieShopMobile\BethanysPieShopMobile\BethanysPieShopMobile\obj\Debug\netstandard2.0\BethanysPieShopMobile.dll
+C:\Users\Moraki\Desktop\Xamarin Projects\BethanysPieShopMobile\BethanysPieShopMobile\BethanysPieShopMobile\obj\Debug\netstandard2.0\ref\BethanysPieShopMobile.dll
+C:\Users\Moraki\Desktop\Xamarin Projects\BethanysPieShopMobile\BethanysPieShopMobile\BethanysPieShopMobile\obj\Debug\netstandard2.0\BethanysPieShopMobile.pdb
+C:\Users\Moraki\Desktop\Xamarin Projects\BethanysPieShopMobile\BethanysPieShopMobile\BethanysPieShopMobile\obj\Debug\netstandard2.0\GridPage.xaml.g.cs
+C:\Users\Moraki\Desktop\Xamarin Projects\BethanysPieShopMobile\BethanysPieShopMobile\BethanysPieShopMobile\obj\Debug\netstandard2.0\PropertyElementSyntaxPage.xaml.g.cs

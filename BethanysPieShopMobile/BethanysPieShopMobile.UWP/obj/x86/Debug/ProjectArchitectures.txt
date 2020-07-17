@@ -1,0 +1,1 @@
+C:\Users\Moraki\Desktop\Xamarin Projects\BethanysPieShopMobile\BethanysPieShopMobile\BethanysPieShopMobile.UWP\BethanysPieShopMobile.UWP.csproj;x86

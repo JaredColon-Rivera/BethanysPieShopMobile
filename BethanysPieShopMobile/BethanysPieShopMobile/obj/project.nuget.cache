@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mp2gTpl6RkLR0HLRavVlvWXRRkBf4fPhri8v2+csBQlDUcBIISEWUhnKWBnIUr5JQTCgNwnOmkPjMjnTNjWtWw==",
+  "dgSpecHash": "BDDlM4mbC7tWhPZYK/e8c+pSC5UUxtRFb/cwqbhQXZRJ8W/zpNk9yHwccjqBmsi7nZEzsaIDZz6nc4fMsdLHSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Moraki\\source\\repos\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile.csproj",
+  "projectFilePath": "C:\\Users\\Moraki\\Desktop\\Xamarin Projects\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

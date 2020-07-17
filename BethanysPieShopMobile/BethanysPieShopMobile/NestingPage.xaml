@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="BethanysPieShopMobile.NestingPage">
+    <Grid 
+        BackgroundColor="Gray"
+        Padding="20">
+        <StackLayout BackgroundColor="DarkGray"
+                     Padding="10">
+            <Label Text="Welcome to Bethany's Pie Shop"
+                   VerticalOptions="Center"
+                   HorizontalOptions="Center"
+                   HorizontalTextAlignment="Center"
+                   TextColor="Green"
+                   Rotation="10"
+                   FontSize="Bold"/>
+            <StackLayout BackgroundColor="White">
+                <Label FontSize="Large"
+                       Text="Get your delicious pies now"
+                       HorizontalOptions="Center"
+                       VerticalOptions="Center">
+                </Label>
+            </StackLayout>
+        </StackLayout>
+        
+    </Grid>
+</ContentPage>

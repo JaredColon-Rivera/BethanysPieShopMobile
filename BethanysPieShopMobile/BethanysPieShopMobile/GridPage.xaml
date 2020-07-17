@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="BethanysPieShopMobile.GridPage">
+    <ContentPage.Content> <!-- Using element syntax is required in grids -->
+        <Grid BackgroundColor="#f8f4f1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="100"></RowDefinition>
+                <RowDefinition Height="0"></RowDefinition>
+                <RowDefinition Height="2"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Label Text="Welcome to Bethany's Pie Shop"
+                   VerticalOptions="Center"
+                   HorizontalOptions="Center"
+                   TextColor="Green"
+                   FontSize="12"
+                   Grid.Row="0" Grid.Column="0"
+                   Grid.ColumnSpan="3"/>
+
+            <BoxView Color ="Gray" Grid.Row="1" Grid.Column="0"/>
+            <BoxView Color="Gray" Grid.Row="1" Grid.Column="0"/>
+            <BoxView Color="Green" Grid.Row="1" Grid.Column="1"/>
+            <BoxView Color="Gray" Grid.Row="1" Grid.Column="2"/>
+            <Label BackgroundColor="Gray"
+                   Grid.Column="0"
+                   Grid.Row="2"
+                   Grid.RowSpan="2"
+                   Grid.ColumnSpan="3"
+                   Text="Cupcake sweet candy liquorice. Sesame snaps halvah jelly halvah sweet"/>
+
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

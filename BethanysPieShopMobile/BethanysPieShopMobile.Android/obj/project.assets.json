@@ -1975,11 +1975,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Moraki\\source\\repos\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile.Android\\BethanysPieShopMobile.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Moraki\\Desktop\\Xamarin Projects\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile.Android\\BethanysPieShopMobile.Android.csproj",
       "projectName": "BethanysPieShopMobile.Android",
-      "projectPath": "C:\\Users\\Moraki\\source\\repos\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile.Android\\BethanysPieShopMobile.Android.csproj",
+      "projectPath": "C:\\Users\\Moraki\\Desktop\\Xamarin Projects\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile.Android\\BethanysPieShopMobile.Android.csproj",
       "packagesPath": "C:\\Users\\Moraki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Moraki\\source\\repos\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile.Android\\obj\\",
+      "outputPath": "C:\\Users\\Moraki\\Desktop\\Xamarin Projects\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2000,8 +2000,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\Moraki\\source\\repos\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile.csproj": {
-              "projectPath": "C:\\Users\\Moraki\\source\\repos\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile.csproj"
+            "C:\\Users\\Moraki\\Desktop\\Xamarin Projects\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile.csproj": {
+              "projectPath": "C:\\Users\\Moraki\\Desktop\\Xamarin Projects\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile.csproj"
             }
           }
         }
