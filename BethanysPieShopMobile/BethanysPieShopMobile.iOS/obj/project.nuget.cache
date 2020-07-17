@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ah0RYfQVhVVRUcQKLvZprh2oNlGApuMWVrAyyheE9L5n7XgVbZHSEep6QvptvYSbN296xrqQDuNDiEn57/FM4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Moraki\\source\\repos\\BethanysPieShopMobile\\BethanysPieShopMobile\\BethanysPieShopMobile.iOS\\BethanysPieShopMobile.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moraki\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}
